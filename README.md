@@ -34,4 +34,4 @@ MySQL · PostgreSQL · Oracle Database · MongoDB · Firebase Firestore
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/dib-ishak-3a50532a5) · [GitHub](https://github.com/dibishak) · Portfolio coming soon
+[LinkedIn](https://www.linkedin.com/in/dib-ishak-3a50532a5) 
