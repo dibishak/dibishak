@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ishak Dib 👋
+# Hi, I'm Ishak Dib 
 
 ### AI Engineering Student @ ENSIA | AI & Data Science
 
