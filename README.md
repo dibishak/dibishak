@@ -1,13 +1,12 @@
 <div align="center">
 
-# Hi, I'm Ishak Dib 👋
+# Hi, I'm Ishak Dib 
 
-### AI Engineering Student @ ENSIA | AI & Data Science
+###  AI & Data Science Engineering Student @ ENSIA 
 
 **Machine Learning · Data Science · Software Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dib-ishak-3a50532a5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-65D6C4?style=flat)](https://dibishak.github.io/dibishak/)
 
 </div>
 
@@ -35,4 +34,4 @@ MySQL · PostgreSQL · Oracle Database · MongoDB · Firebase Firestore
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/dib-ishak-3a50532a5) · [Portfolio](https://dibishak.github.io/dibishak/) · [GitHub](https://github.com/dibishak)
+[LinkedIn](https://www.linkedin.com/in/dib-ishak-3a50532a5) 
