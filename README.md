@@ -35,4 +35,6 @@ MySQL · PostgreSQL · Oracle Database · MongoDB · Firebase Firestore
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/dib-ishak-3a50532a5) 
+[LinkedIn](https://www.linkedin.com/in/dib-ishak-3a50532a5) · [Email](mailto:dibishak.23@gmail.com) · [WhatsApp](https://wa.me/213655756676) · [French CV](French-CV-Ishak-Dib.pdf)
+
+**Open to remote opportunities** in software development, AI, and data science. 
