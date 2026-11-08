@@ -2,7 +2,7 @@
 
 # Hi, I'm Ishak Dib 
 
-### AI Engineering Student @ ENSIA | AI & Data Science
+###  AI & Data Science Engineering Student @ ENSIA 
 
 **Machine Learning · Data Science · Software Development**
 
