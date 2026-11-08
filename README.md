@@ -6,7 +6,7 @@
 
 **Machine Learning · Data Science · Software Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/dib-ishak-3a50532a5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dib-ishak-3a50532a5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-65D6C4?style=flat)](https://dibishak.github.io/dibishak/)
 
 </div>
